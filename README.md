@@ -1,1 +1,1 @@
-do not be empty
+alias - do not be empty
